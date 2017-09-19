@@ -17,18 +17,18 @@ message_before = "Hello "
 message_after = ". I want to invite You for a dinner. Will You come at 5 p.m?"
 
 # First invitation
-print(message_before + guest_list[0] + message_after)
-print(message_before + guest_list[1] + message_after)
-print(message_before + guest_list[2] + message_after)
+print(message_before + guest_list[0] + message_after+ ". I invited: " + str(len(guest_list)) + " people.")
+print(message_before + guest_list[1] + message_after+ ". I invited: " + str(len(guest_list)) + " people.")
+print(message_before + guest_list[2] + message_after+ ". I invited: " + str(len(guest_list)) + " people.")
 
 cant_guest_list= guest_list.pop(2)
 print("\nUnfortunately "+ cant_guest_list + " will not eat with us.\n" )
-print(guest_list)
+print(guest_list, len(guest_list), "Guests")
 
 # New person add to my guest_list
 guest_list.append("Damian")
 print("My new guest list:")
-print(guest_list)
+print(guest_list, len(guest_list), "Guests")
 
 # Confirmation of invitation without Gosia
 print("\nMy new invitations: ")

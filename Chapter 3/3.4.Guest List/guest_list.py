@@ -7,10 +7,10 @@ them to dinner.
 
 guest_list = ["Ewelina","Tomek","Gosia"]
 
-
+number_of_guests = len(guest_list)
 message_before = "Hello "
 message_after = ". I want to invite You for eat dinner with me. Will You come at 5 p.m?"
 
-print(message_before + guest_list[0] + message_after)
-print(message_before + guest_list[1] + message_after)
-print(message_before + guest_list[2] + message_after)
+print(message_before + guest_list[0] + message_after + ". I invited: " + str(number_of_guests) + " people.")
+print(message_before + guest_list[1] + message_after + ". I invited: " + str(number_of_guests) + " people.")
+print(message_before + guest_list[2] + message_after + ". I invited: " + str(number_of_guests) + " people.")

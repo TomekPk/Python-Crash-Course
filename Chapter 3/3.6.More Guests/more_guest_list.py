@@ -14,7 +14,7 @@ guest_list = ["Ewelina","Tomek","Gosia"]
 
 
 message_before = "Hello "
-message_after = ". I want to invite You for a dinner. Will You come at 5 p.m?"
+message_after = ". I want to invite You for a dinner. Be at 5 p.m. See You"
 
 # First invitation
 print(message_before + guest_list[0] + message_after)
@@ -37,4 +37,33 @@ print(guest_list[0] + message2_after)
 print(guest_list[1] + message2_after)
 print(message_before + guest_list[2] + message_after)
 
-# add new guests ...
+# add 3 more guests ...
+
+print("\n")
+guest_list.insert(0, "Monika")
+print(message_before + guest_list[0] + message_after)
+print("My currently guest list: ", guest_list)
+
+
+print("\n")
+guest_list.insert(2, "Adam")
+print(message_before + guest_list[2] + message_after)
+print("My currently guest list: ", guest_list)
+
+
+print("\n")
+guest_list.append("Krzysiek")
+print(message_before + guest_list[-1] + message_after)
+print("My currently guest list: ", guest_list)
+
+
+# Print guest list using for loop
+print("\nAll Guests invited:")
+for index in range(len(guest_list)):
+    print(guest_list[index])
+
+print("\nInvitations:")
+for index in range(len(guest_list)):
+    print(message_before+ guest_list[index] + message_after)
+
+

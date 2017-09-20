@@ -10,6 +10,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Python_Crash_Course$more_conditional_tests.coverage" NAME="more_conditional_tests Coverage Results" MODIFIED="1505910030714" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter 5/5.2.More Conditional Tests" />
     <SUITE FILE_PATH="coverage/Python_Crash_Course$names.coverage" NAME="names Coverage Results" MODIFIED="1505761413222" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter 3/3.1.Names" />
     <SUITE FILE_PATH="coverage/Python_Crash_Course$threes.coverage" NAME="threes Coverage Results" MODIFIED="1505895816555" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter 4/4.7.Threes" />
     <SUITE FILE_PATH="coverage/Python_Crash_Course$odd_numbers.coverage" NAME="odd_numbers Coverage Results" MODIFIED="1505895480310" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter 4/4.6.Odd Numbers" />
@@ -31,16 +32,37 @@
     <SUITE FILE_PATH="coverage/Python_Crash_Course$counting_to_twenty.coverage" NAME="counting_to_twenty Coverage Results" MODIFIED="1505894225795" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter 4/4.3.Counting to Twenty" />
     <SUITE FILE_PATH="coverage/Python_Crash_Course$more_guest_list.coverage" NAME="more_guest_list Coverage Results" MODIFIED="1505805431984" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter 3/3.6.More Guests" />
     <SUITE FILE_PATH="coverage/Python_Crash_Course$animals.coverage" NAME="animals Coverage Results" MODIFIED="1505894031472" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter 4/4.2.Animals" />
+    <SUITE FILE_PATH="coverage/Python_Crash_Course$conditional_tests.coverage" NAME="conditional_tests Coverage Results" MODIFIED="1505909500241" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter 5/5.1.Conditional Tests" />
     <SUITE FILE_PATH="coverage/Python_Crash_Course$summing_milion.coverage" NAME="summing_milion Coverage Results" MODIFIED="1505895051489" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter 4/4.4.Summin a Milion" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="buffet.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="buffet.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Chapter 4/4.13.Buffet/buffet.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
-              <caret line="28" column="11" lean-forward="true" selection-start-line="28" selection-start-column="11" selection-end-line="28" selection-end-column="11" />
+            <state relative-caret-position="92">
+              <caret line="16" column="4" lean-forward="true" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="conditional_tests.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chapter 5/5.1.Conditional Tests/conditional_tests.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="281">
+              <caret line="58" column="20" lean-forward="true" selection-start-line="58" selection-start-column="20" selection-end-line="58" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="more_conditional_tests.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Chapter 5/5.2.More Conditional Tests/more_conditional_tests.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="350">
+              <caret line="17" column="15" lean-forward="true" selection-start-line="17" selection-start-column="15" selection-end-line="17" selection-end-column="15" />
               <folding />
             </state>
           </provider>
@@ -99,6 +121,8 @@
         <option value="$PROJECT_DIR$/Chapter 4/4.11.My Pizzas, Your Pizzas/my_pizzas.py" />
         <option value="$PROJECT_DIR$/Chapter 4/4.12.More Loops/more_loops.py" />
         <option value="$PROJECT_DIR$/Chapter 4/4.13.Buffet/buffet.py" />
+        <option value="$PROJECT_DIR$/Chapter 5/5.1.Conditional Tests/conditional_tests.py" />
+        <option value="$PROJECT_DIR$/Chapter 5/5.2.More Conditional Tests/more_conditional_tests.py" />
       </list>
     </option>
   </component>
@@ -153,25 +177,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Chapter 4" />
+              <option name="myItemId" value="Chapter 5" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="4.13.Buffet" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Python-Crash-Course" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Python-Crash-Course" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Chapter 4" />
+              <option name="myItemId" value="5.2.More Conditional Tests" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -185,7 +195,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Chapter 3" />
+              <option name="myItemId" value="Chapter 5" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="5.1.Conditional Tests" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -200,11 +214,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Tomasz\Desktop\GitHub\Python-Crash-Course\Chapter 5\5.2.More Conditional Tests" />
+      <recent name="C:\Users\Tomasz\Desktop\GitHub\Python-Crash-Course\Chapter 5" />
       <recent name="C:\Users\Tomasz\Desktop\GitHub\Python-Crash-Course\Chapter 4\4.13.Buffet" />
       <recent name="C:\Users\Tomasz\Desktop\GitHub\Python-Crash-Course\Chapter 4" />
       <recent name="C:\Users\Tomasz\Desktop\GitHub\Python-Crash-Course\Chapter 4\4.12.More Loops" />
-      <recent name="C:\Users\Tomasz\Desktop\GitHub\Python-Crash-Course\Chapter 4\4.11.My Pizzas, Your Pizzas" />
-      <recent name="C:\Users\Tomasz\Desktop\GitHub\Python-Crash-Course\Chapter 4\4.10.Slices" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Tomasz\Desktop\GitHub\Python-Crash-Course\Chapter 3" />
@@ -222,45 +236,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.buffet">
-    <configuration default="false" name="cube_comprehension" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter 4/4.9.Cube Comprehension" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Python-Crash-Course" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter 4/4.9.Cube Comprehension/cube_comprehension.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="slices" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter 4/4.10.Slices" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Python-Crash-Course" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter 4/4.10.Slices/slices.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.more_conditional_tests">
     <configuration default="false" name="my_pizzas" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -313,6 +289,44 @@
       <module name="Python-Crash-Course" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter 4/4.13.Buffet/buffet.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="conditional_tests" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter 5/5.1.Conditional Tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Python-Crash-Course" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter 5/5.1.Conditional Tests/conditional_tests.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="more_conditional_tests" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter 5/5.2.More Conditional Tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Python-Crash-Course" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter 5/5.2.More Conditional Tests/more_conditional_tests.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -467,19 +481,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.cube_comprehension" />
-      <item index="1" class="java.lang.String" itemvalue="Python.slices" />
-      <item index="2" class="java.lang.String" itemvalue="Python.my_pizzas" />
-      <item index="3" class="java.lang.String" itemvalue="Python.more_loops" />
-      <item index="4" class="java.lang.String" itemvalue="Python.buffet" />
+      <item index="0" class="java.lang.String" itemvalue="Python.my_pizzas" />
+      <item index="1" class="java.lang.String" itemvalue="Python.more_loops" />
+      <item index="2" class="java.lang.String" itemvalue="Python.buffet" />
+      <item index="3" class="java.lang.String" itemvalue="Python.conditional_tests" />
+      <item index="4" class="java.lang.String" itemvalue="Python.more_conditional_tests" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.buffet" />
-        <item index="1" class="java.lang.String" itemvalue="Python.more_loops" />
-        <item index="2" class="java.lang.String" itemvalue="Python.my_pizzas" />
-        <item index="3" class="java.lang.String" itemvalue="Python.slices" />
-        <item index="4" class="java.lang.String" itemvalue="Python.cube_comprehension" />
+        <item index="0" class="java.lang.String" itemvalue="Python.more_conditional_tests" />
+        <item index="1" class="java.lang.String" itemvalue="Python.conditional_tests" />
+        <item index="2" class="java.lang.String" itemvalue="Python.buffet" />
+        <item index="3" class="java.lang.String" itemvalue="Python.more_loops" />
+        <item index="4" class="java.lang.String" itemvalue="Python.my_pizzas" />
       </list>
     </recent_temporary>
   </component>
@@ -543,30 +557,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Chapter 3/3.1.Names/names.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="8" column="12" lean-forward="false" selection-start-line="5" selection-start-column="2" selection-end-line="9" selection-end-column="15" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter 3/3.2.Greetings/greetings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter 3/3.3.Your own list/your_own_list.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="11" column="34" lean-forward="false" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Chapter 3/3.5.Changing Guest List/change_guest_list.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="828">
@@ -944,8 +934,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Chapter 4/4.13.Buffet/buffet.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="28" column="11" lean-forward="true" selection-start-line="28" selection-start-column="11" selection-end-line="28" selection-end-column="11" />
+        <state relative-caret-position="92">
+          <caret line="16" column="4" lean-forward="true" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter 5/5.1.Conditional Tests/conditional_tests.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="281">
+          <caret line="58" column="20" lean-forward="true" selection-start-line="58" selection-start-column="20" selection-end-line="58" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter 5/5.2.More Conditional Tests/conditional_tests.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter 5/5.2.More Conditional Tests/more_conditional_tests.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="17" column="15" lean-forward="true" selection-start-line="17" selection-start-column="15" selection-end-line="17" selection-end-column="15" />
           <folding />
         </state>
       </provider>

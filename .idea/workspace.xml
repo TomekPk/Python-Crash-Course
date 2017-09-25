@@ -10,6 +10,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Python_Crash_Course$three_restaurants.coverage" NAME="three_restaurants Coverage Results" MODIFIED="1506337642151" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter 9/9.2.Three Restaurants" />
     <SUITE FILE_PATH="coverage/Python_Crash_Course$multiples_of_ten.coverage" NAME="multiples_of_ten Coverage Results" MODIFIED="1506081337719" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter 7/7.3.Multiples of Ten" />
     <SUITE FILE_PATH="coverage/Python_Crash_Course$message.coverage" NAME="message Coverage Results" MODIFIED="1506104186214" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter 8/8.1.Message" />
     <SUITE FILE_PATH="coverage/Python_Crash_Course$cubes.coverage" NAME="cubes Coverage Results" MODIFIED="1505896613497" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter 4/4.8.Cubes" />
@@ -33,11 +34,13 @@
     <SUITE FILE_PATH="coverage/Python_Crash_Course$change_guest_list.coverage" NAME="change_guest_list Coverage Results" MODIFIED="1505811209280" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter 3/3.5.Changing Guest List" />
     <SUITE FILE_PATH="coverage/Python_Crash_Course$print_models.coverage" NAME="print_models Coverage Results" MODIFIED="1506325018585" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter 8/8.15.Printing Models" />
     <SUITE FILE_PATH="coverage/Python_Crash_Course$restaurant_seating.coverage" NAME="restaurant_seating Coverage Results" MODIFIED="1506081075051" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter 7/7.2.Restaurant Seating" />
+    <SUITE FILE_PATH="coverage/Python_Crash_Course$privileges.coverage" NAME="privileges Coverage Results" MODIFIED="1506356209482" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter 9/9.8.Privileges" />
     <SUITE FILE_PATH="coverage/Python_Crash_Course$seeing_the_world.coverage" NAME="seeing_the_world Coverage Results" MODIFIED="1505810772161" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter 3/3.8.Seeing the World" />
     <SUITE FILE_PATH="coverage/Python_Crash_Course$stage_of_life.coverage" NAME="stage_of_life Coverage Results" MODIFIED="1505934345799" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter 5/5.6.Stage of life" />
     <SUITE FILE_PATH="coverage/Python_Crash_Course$glossary.coverage" NAME="glossary Coverage Results" MODIFIED="1506005744356" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter 6/6.2.Glossary" />
     <SUITE FILE_PATH="coverage/Python_Crash_Course$album.coverage" NAME="album Coverage Results" MODIFIED="1506159073166" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter 8/8.7.Album" />
     <SUITE FILE_PATH="coverage/Python_Crash_Course$unchanged_magicians.coverage" NAME="unchanged_magicians Coverage Results" MODIFIED="1506271903333" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter 8/8.11.Unchanged Magicians" />
+    <SUITE FILE_PATH="coverage/Python_Crash_Course$users.coverage" NAME="users Coverage Results" MODIFIED="1506338927513" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter 9/9.3.Users" />
     <SUITE FILE_PATH="coverage/Python_Crash_Course$every_function.coverage" NAME="every_function Coverage Results" MODIFIED="1505822715102" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter 3/3.10.Every Function" />
     <SUITE FILE_PATH="coverage/Python_Crash_Course$cities.coverage" NAME="cities Coverage Results" MODIFIED="1506237554154" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter 8/8.5.Cities" />
     <SUITE FILE_PATH="coverage/Python_Crash_Course$your_own_list.coverage" NAME="your_own_list Coverage Results" MODIFIED="1505761781333" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter 3/3.3.Your own list" />
@@ -46,6 +49,7 @@
     <SUITE FILE_PATH="coverage/Python_Crash_Course$shrinking_guest_list.coverage" NAME="shrinking_guest_list Coverage Results" MODIFIED="1505806682752" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter 3/3.7.Shrinking Guest List" />
     <SUITE FILE_PATH="coverage/Python_Crash_Course$pizzas.coverage" NAME="pizzas Coverage Results" MODIFIED="1505893744369" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter 4/4.1.Pizzas" />
     <SUITE FILE_PATH="coverage/Python_Crash_Course$favourite_fruit.coverage" NAME="favourite_fruit Coverage Results" MODIFIED="1505935003341" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter 5/5.7.Favorite Fruit" />
+    <SUITE FILE_PATH="coverage/Python_Crash_Course$battery_upgrade.coverage" NAME="battery_upgrade Coverage Results" MODIFIED="1506358111914" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter 9/9.9.Batery Upgrade" />
     <SUITE FILE_PATH="coverage/Python_Crash_Course$counting_to_twenty.coverage" NAME="counting_to_twenty Coverage Results" MODIFIED="1505894225795" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter 4/4.3.Counting to Twenty" />
     <SUITE FILE_PATH="coverage/Python_Crash_Course$favourite_numbers.coverage" NAME="favourite_numbers Coverage Results" MODIFIED="1506004773254" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter 6/6.2.Favourite Numbers" />
     <SUITE FILE_PATH="coverage/Python_Crash_Course$ordinal_numbers.coverage" NAME="ordinal_numbers Coverage Results" MODIFIED="1505988819059" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter 5/5.11.Ordinal Numbers" />
@@ -56,10 +60,12 @@
     <SUITE FILE_PATH="coverage/Python_Crash_Course$favourite_places.coverage" NAME="favourite_places Coverage Results" MODIFIED="1506068396356" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter 6/6.9.Favourite Places" />
     <SUITE FILE_PATH="coverage/Python_Crash_Course$user_albums.coverage" NAME="user_albums Coverage Results" MODIFIED="1506160740091" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter 8/8.8.User Albums" />
     <SUITE FILE_PATH="coverage/Python_Crash_Course$threes.coverage" NAME="threes Coverage Results" MODIFIED="1505895816555" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter 4/4.7.Threes" />
+    <SUITE FILE_PATH="coverage/Python_Crash_Course$login_attempts.coverage" NAME="login_attempts Coverage Results" MODIFIED="1506346880832" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter 9/9.5.Login Attempts" />
     <SUITE FILE_PATH="coverage/Python_Crash_Course$checking_usernames.coverage" NAME="checking_usernames Coverage Results" MODIFIED="1505986568141" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter 5/5.10.Checking Usernames" />
     <SUITE FILE_PATH="coverage/Python_Crash_Course$my_file.coverage" NAME="my_file Coverage Results" MODIFIED="1506335973373" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter 8/8.17.Styling Functions" />
     <SUITE FILE_PATH="coverage/Python_Crash_Course$pizza_toppings.coverage" NAME="pizza_toppings Coverage Results" MODIFIED="1506237613871" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter 7/7.4.Pizza Toppings" />
     <SUITE FILE_PATH="coverage/Python_Crash_Course$t_shirt.coverage" NAME="t_shirt Coverage Results" MODIFIED="1506104615943" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter 8/8.3.T-shirt" />
+    <SUITE FILE_PATH="coverage/Python_Crash_Course$restaurant.coverage" NAME="restaurant Coverage Results" MODIFIED="1506354410088" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter 9/9.1.Restaurant" />
     <SUITE FILE_PATH="coverage/Python_Crash_Course$people.coverage" NAME="people Coverage Results" MODIFIED="1506019064041" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter 6/6.7.People" />
     <SUITE FILE_PATH="coverage/Python_Crash_Course$more_loops.coverage" NAME="more_loops Coverage Results" MODIFIED="1505900775026" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter 4/4.12.More Loops" />
     <SUITE FILE_PATH="coverage/Python_Crash_Course$dream_vacation.coverage" NAME="dream_vacation Coverage Results" MODIFIED="1506090104363" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter 7/7.10.Dream Vacation" />
@@ -73,10 +79,13 @@
     <SUITE FILE_PATH="coverage/Python_Crash_Course$city_names.coverage" NAME="city_names Coverage Results" MODIFIED="1506157873373" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter 8/8.6.City Names" />
     <SUITE FILE_PATH="coverage/Python_Crash_Course$glossary2.coverage" NAME="glossary2 Coverage Results" MODIFIED="1506010857328" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter 6/6.4.Glossary 2" />
     <SUITE FILE_PATH="coverage/Python_Crash_Course$alien_colors3.coverage" NAME="alien_colors3 Coverage Results" MODIFIED="1505933922395" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter 5/5.5.Alien Colors 3" />
+    <SUITE FILE_PATH="coverage/Python_Crash_Course$number_served.coverage" NAME="number_served Coverage Results" MODIFIED="1506345813056" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter 9/9.4.Number Served" />
     <SUITE FILE_PATH="coverage/Python_Crash_Course$odd_numbers.coverage" NAME="odd_numbers Coverage Results" MODIFIED="1505895480310" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter 4/4.6.Odd Numbers" />
     <SUITE FILE_PATH="coverage/Python_Crash_Course$my_pizzas.coverage" NAME="my_pizzas Coverage Results" MODIFIED="1505900509410" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter 4/4.11.My Pizzas, Your Pizzas" />
     <SUITE FILE_PATH="coverage/Python_Crash_Course$rivers.coverage" NAME="rivers Coverage Results" MODIFIED="1506011488959" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter 6/6.6.Rivers" />
     <SUITE FILE_PATH="coverage/Python_Crash_Course$pooling.coverage" NAME="pooling Coverage Results" MODIFIED="1506011994090" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter 6/6.7.Polling" />
+    <SUITE FILE_PATH="coverage/Python_Crash_Course$admin.coverage" NAME="admin Coverage Results" MODIFIED="1506355709560" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter 9/9.7.Admin" />
+    <SUITE FILE_PATH="coverage/Python_Crash_Course$ice_cream_stand.coverage" NAME="ice_cream_stand Coverage Results" MODIFIED="1506354443144" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter 9/9.6.Ice Cream Stand" />
     <SUITE FILE_PATH="coverage/Python_Crash_Course$cube_comprehension.coverage" NAME="cube_comprehension Coverage Results" MODIFIED="1505897212138" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter 4/4.9.Cube Comprehension" />
     <SUITE FILE_PATH="coverage/Python_Crash_Course$hello_admin.coverage" NAME="hello_admin Coverage Results" MODIFIED="1505981688055" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter 5/5.8.Hello Admin" />
     <SUITE FILE_PATH="coverage/Python_Crash_Course$extensions.coverage" NAME="extensions Coverage Results" MODIFIED="1506071127235" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter 6/6.12.Extensions" />
@@ -87,28 +96,28 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="printing_functions.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Chapter 8/8.16.Imports/printing_functions.py">
+      <file leaf-file-name="number_served.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chapter 9/9.4.Number Served/number_served.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="69">
-              <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+            <state relative-caret-position="401">
+              <caret line="38" column="35" lean-forward="true" selection-start-line="38" selection-start-column="35" selection-end-line="38" selection-end-column="35" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="unchanged_magicians.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Chapter 8/8.11.Unchanged Magicians/unchanged_magicians.py">
+      <file leaf-file-name="privileges.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chapter 9/9.8.Privileges/privileges.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="460">
-              <caret line="23" column="13" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="23" selection-end-column="13" />
+            <state relative-caret-position="452">
+              <caret line="44" column="24" lean-forward="false" selection-start-line="44" selection-start-column="24" selection-end-line="44" selection-end-column="24" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="functions_from_other_projects.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Chapter 8/8.17.Styling Functions/functions_from_other_projects.py">
+      <file leaf-file-name="modules.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chapter 9/9.9.Batery Upgrade/.idea/modules.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -117,38 +126,58 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="my_file.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Chapter 8/8.17.Styling Functions/my_file.py">
+      <file leaf-file-name="README" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chapter 9/9.9.Batery Upgrade/README">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="276">
-              <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+            <state relative-caret-position="0">
+              <caret line="0" column="9" lean-forward="false" selection-start-line="0" selection-start-column="9" selection-end-line="0" selection-end-column="9" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="cars.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Chapter 8/8.14.Cars/cars.py">
+      <file leaf-file-name="battery_upgrade.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Chapter 9/9.9.Batery Upgrade/battery_upgrade.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="493">
-              <caret line="29" column="17" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="29" selection-end-column="17" />
+            <state relative-caret-position="253">
+              <caret line="38" column="0" lean-forward="true" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="print_models.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Chapter 8/8.15.Printing Models/print_models.py">
+      <file leaf-file-name="login_attempts.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chapter 9/9.5.Login Attempts/login_attempts.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="161">
-              <caret line="7" column="5" lean-forward="true" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+            <state relative-caret-position="230">
+              <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="misc.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Chapter 8/8.16.Imports/.idea/misc.xml">
+      <file leaf-file-name="ice_cream_stand.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chapter 9/9.6.Ice Cream Stand/ice_cream_stand.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="430">
+              <caret line="30" column="0" lean-forward="true" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="admin.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chapter 9/9.7.Admin/admin.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="590">
+              <caret line="36" column="26" lean-forward="true" selection-start-line="36" selection-start-column="26" selection-end-line="36" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="modules.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chapter 9/9.8.Privileges/.idea/modules.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -157,31 +186,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="print_models.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Chapter 8/8.16.Imports/print_models.py">
+      <file leaf-file-name="restaurant.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chapter 9/9.1.Restaurant/restaurant.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="355">
-              <caret line="20" column="7" lean-forward="false" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="printing_functions.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Chapter 8/8.15.Printing Models/printing_functions.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="46">
-              <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+            <state relative-caret-position="483">
+              <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -199,6 +208,7 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>rivers</find>
+      <find>cousine</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -208,15 +218,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Chapter 5/5.9.No Users/no_users.py" />
-        <option value="$PROJECT_DIR$/Chapter 5/5.10.Checking Usernames/checking_usernames.py" />
-        <option value="$PROJECT_DIR$/Chapter 5/5.11.Ordinal Numbers/ordinal_numbers.py" />
-        <option value="$PROJECT_DIR$/Chapter 6/6.1. Person/person.py" />
-        <option value="$PROJECT_DIR$/Chapter 6/6.2.Favourite Numbers/favourite_numbers.py" />
-        <option value="$PROJECT_DIR$/Chapter 6/6.2.Glossary/glossary.py" />
-        <option value="$PROJECT_DIR$/Chapter 6/6.3.Glossary/glossary.py" />
-        <option value="$PROJECT_DIR$/Chapter 6/6.4.Glossary 2/glossary2.py" />
-        <option value="$PROJECT_DIR$/Chapter 6/6.6.Rivers/rivers.py" />
         <option value="$PROJECT_DIR$/Chapter 6/6.7.Polling/pooling.py" />
         <option value="$PROJECT_DIR$/Chapter 6/6.7.People/people.py" />
         <option value="$PROJECT_DIR$/Chapter 6/6.8.Pets/pets.py" />
@@ -259,6 +260,15 @@
         <option value="$PROJECT_DIR$/Chapter 8/8.17.Styling Functions/functions_from_other_projects.py" />
         <option value="$PROJECT_DIR$/Chapter 8/8.16.Imports/print_models.py" />
         <option value="$PROJECT_DIR$/Chapter 8/8.17.Styling Functions/my_file.py" />
+        <option value="$PROJECT_DIR$/Chapter 9/9.2.Three Restaurants/three_restaurants.py" />
+        <option value="$PROJECT_DIR$/Chapter 9/9.3.Users/users.py" />
+        <option value="$PROJECT_DIR$/Chapter 9/9.4.Number Served/number_served.py" />
+        <option value="$PROJECT_DIR$/Chapter 9/9.5.Login Attempts/.idea/modules.xml" />
+        <option value="$PROJECT_DIR$/Chapter 9/9.5.Login Attempts/login_attempts.py" />
+        <option value="$PROJECT_DIR$/Chapter 9/9.6.Ice Cream Stand/ice_cream_stand.py" />
+        <option value="$PROJECT_DIR$/Chapter 9/9.7.Admin/admin.py" />
+        <option value="$PROJECT_DIR$/Chapter 9/9.8.Privileges/privileges.py" />
+        <option value="$PROJECT_DIR$/Chapter 9/9.9.Batery Upgrade/battery_upgrade.py" />
       </list>
     </option>
   </component>
@@ -325,7 +335,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Chapter 8" />
+              <option name="myItemId" value="Chapter 9" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -337,16 +347,16 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Chapter 8/8.17.Styling Functions" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Chapter 9/9.1.Restaurant" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Tomasz\Desktop\GitHub\Python-Crash-Course\Chapter 9" />
+      <recent name="C:\Users\Tomasz\Desktop\GitHub\Python-Crash-Course\Chapter 9\9.1.Restaurant" />
+      <recent name="C:\Users\Tomasz\Desktop\GitHub\Python-Crash-Course\Chapter 8\8.17.Styling Functions" />
       <recent name="C:\Users\Tomasz\Desktop\GitHub\Python-Crash-Course\Chapter 8" />
       <recent name="C:\Users\Tomasz\Desktop\GitHub\Python-Crash-Course" />
-      <recent name="C:\Users\Tomasz\Desktop\GitHub\Python-Crash-Course\Thomas_package" />
-      <recent name="C:\Users\Tomasz\Desktop\GitHub\Python-Crash-Course\Some" />
-      <recent name="C:\Users\Tomasz\Desktop\GitHub\Python-Crash-Course\Chapter 8\8.15.Printing Models" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Tomasz\Desktop\GitHub\Python-Crash-Course" />
@@ -366,97 +376,97 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.print_models (1)">
-    <configuration default="false" name="cars" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.battery_upgrade">
+    <configuration default="false" name="ice_cream_stand" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter 8/8.14.Cars" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter 9/9.6.Ice Cream Stand" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Python-Crash-Course" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter 8/8.14.Cars/cars.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter 9/9.6.Ice Cream Stand/ice_cream_stand.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="print_models" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="restaurant" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter 8/8.15.Printing Models" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter 9/9.1.Restaurant" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Python-Crash-Course" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter 8/8.15.Printing Models/print_models.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter 9/9.1.Restaurant/restaurant.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="printing_functions" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="admin" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter 8/8.15.Printing Models" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter 9/9.7.Admin" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Python-Crash-Course" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter 8/8.15.Printing Models/printing_functions.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter 9/9.7.Admin/admin.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="print_models (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="privileges" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter 8/8.16.Imports" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter 9/9.8.Privileges" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Python-Crash-Course" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter 8/8.16.Imports/print_models.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter 9/9.8.Privileges/privileges.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="my_file" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="battery_upgrade" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter 8/8.17.Styling Functions" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter 9/9.9.Batery Upgrade" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Python-Crash-Course" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter 8/8.17.Styling Functions/my_file.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter 9/9.9.Batery Upgrade/battery_upgrade.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -651,19 +661,19 @@
     <list size="7">
       <item index="0" class="java.lang.String" itemvalue="Python.my_functions" />
       <item index="1" class="java.lang.String" itemvalue="Python.make_something" />
-      <item index="2" class="java.lang.String" itemvalue="Python.cars" />
-      <item index="3" class="java.lang.String" itemvalue="Python.print_models" />
-      <item index="4" class="java.lang.String" itemvalue="Python.printing_functions" />
-      <item index="5" class="java.lang.String" itemvalue="Python.print_models (1)" />
-      <item index="6" class="java.lang.String" itemvalue="Python.my_file" />
+      <item index="2" class="java.lang.String" itemvalue="Python.ice_cream_stand" />
+      <item index="3" class="java.lang.String" itemvalue="Python.restaurant" />
+      <item index="4" class="java.lang.String" itemvalue="Python.admin" />
+      <item index="5" class="java.lang.String" itemvalue="Python.privileges" />
+      <item index="6" class="java.lang.String" itemvalue="Python.battery_upgrade" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.print_models (1)" />
-        <item index="1" class="java.lang.String" itemvalue="Python.my_file" />
-        <item index="2" class="java.lang.String" itemvalue="Python.print_models" />
-        <item index="3" class="java.lang.String" itemvalue="Python.printing_functions" />
-        <item index="4" class="java.lang.String" itemvalue="Python.cars" />
+        <item index="0" class="java.lang.String" itemvalue="Python.battery_upgrade" />
+        <item index="1" class="java.lang.String" itemvalue="Python.privileges" />
+        <item index="2" class="java.lang.String" itemvalue="Python.admin" />
+        <item index="3" class="java.lang.String" itemvalue="Python.ice_cream_stand" />
+        <item index="4" class="java.lang.String" itemvalue="Python.restaurant" />
       </list>
     </recent_temporary>
   </component>
@@ -691,8 +701,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1050" extended-state="7" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32384533" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32384533" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299435" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299435" sideWeight="0.5021482" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -726,160 +737,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Chapter 6/6.9.Favourite Places/favourite_places.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="383">
-          <caret line="21" column="4" lean-forward="false" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter 6/6.12.Extensions/extensions.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="38" column="19" lean-forward="false" selection-start-line="38" selection-start-column="19" selection-end-line="38" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter 5/5.2.More Conditional Tests/more_conditional_tests.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="12" column="3" lean-forward="false" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter 6/6.7.People/people.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="828">
-          <caret line="36" column="75" lean-forward="false" selection-start-line="36" selection-start-column="75" selection-end-line="36" selection-end-column="75" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter 8/8.7.Album/album.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="9" column="24" lean-forward="false" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter 7/7.10.Dream Vacation/dream_vacation.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="10" column="11" lean-forward="false" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter 7/7.9.No Pastrami/no_pastrami.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter 7/7.8.Deli/deli.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter 8/8.6.City Names/city_names.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="194">
-          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter 8/8.9.Magicians/magicians.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="12" column="23" lean-forward="true" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter 8/8.8.User Albums/user_albums.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="355">
-          <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter 8/8.5.Cities/cities.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="12" column="10" lean-forward="false" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter 8/8.4.Large Shirts/large_shirts.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="14" column="23" lean-forward="false" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter 8/8.3.T-shirt/t_shirt.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="15" column="30" lean-forward="false" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter 8/8.2.Favourite Book/favourite_book.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="10" column="37" lean-forward="false" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter 8/8.1.Message/message.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="9" column="17" lean-forward="false" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter 7/7.1.Rental Car/rental_car.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="7" column="42" lean-forward="false" selection-start-line="7" selection-start-column="42" selection-end-line="7" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter 7/7.2.Restaurant Seating/restaurant_seating.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter 7/7.3.Multiples of Ten/multiples_of_ten.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter 7/7.4.Pizza Toppings/pizza_toppings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="15" column="22" lean-forward="true" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter 7/7.5.Movie Tickets/movie_tickets.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="13" column="11" lean-forward="false" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter 7/7.6.Three Exists/three_exists.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="16" column="22" lean-forward="false" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Chapter 7/7.7.Infinity Loop/three_exists.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="138">
@@ -1065,6 +922,182 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="355">
           <caret line="20" column="7" lean-forward="false" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter 8/8.17.Styling Functions/README">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter 9/9.1.Restaurant/README">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter 9/9.2.Three Restaurants/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter 9/9.2.Three Restaurants/.idea/modules.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter 9/9.3.Users/.idea/modules.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter 9/9.2.Three Restaurants/three_restaurants.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="539">
+          <caret line="27" column="32" lean-forward="true" selection-start-line="27" selection-start-column="32" selection-end-line="27" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter 9/9.4.Number Served/.idea/modules.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter 9/9.4.Number Served/.idea/inspectionProfiles/profiles_settings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter 9/9.3.Users/users.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="562">
+          <caret line="34" column="22" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="34" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter 9/9.6.Ice Cream Stand/.idea/modules.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter 9/9.5.Login Attempts/login_attempts.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter 9/9.1.Restaurant/restaurant.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter 9/9.7.Admin/.idea/modules.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter 9/9.6.Ice Cream Stand/ice_cream_stand.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="430">
+          <caret line="30" column="0" lean-forward="true" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter 9/9.7.Admin/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="590">
+          <caret line="36" column="26" lean-forward="true" selection-start-line="36" selection-start-column="26" selection-end-line="36" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter 9/9.8.Privileges/.idea/modules.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter 9/9.5.Login Attempts/.idea/modules.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter 9/9.4.Number Served/number_served.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="401">
+          <caret line="38" column="35" lean-forward="true" selection-start-line="38" selection-start-column="35" selection-end-line="38" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter 9/9.8.Privileges/privileges.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="452">
+          <caret line="44" column="24" lean-forward="false" selection-start-line="44" selection-start-column="24" selection-end-line="44" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter 9/9.9.Batery Upgrade/.idea/modules.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter 9/9.9.Batery Upgrade/README">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="9" lean-forward="false" selection-start-line="0" selection-start-column="9" selection-end-line="0" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter 9/9.9.Batery Upgrade/battery_upgrade.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="38" column="0" lean-forward="true" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
           <folding />
         </state>
       </provider>

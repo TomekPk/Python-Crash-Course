@@ -1,2 +1,5 @@
 # Python-Crash-Course by E R I C   M A T T H E S
+
 learning from ebook
+https://www.nostarch.com/pythoncrashcourse
+book resources: https://ehmatthes.github.io/pcc/

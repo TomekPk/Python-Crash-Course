@@ -1,0 +1,6 @@
+In Python You can create: classes
+In Python You can create: instances of classes
+In Python You can create: functions
+In Python You can create: lists
+In Python You can create: dictionaries
+In Python You can create: tuples

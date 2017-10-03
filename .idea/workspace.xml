@@ -74,7 +74,7 @@
     <SUITE FILE_PATH="coverage/Python_Crash_Course$print_models.coverage" NAME="print_models Coverage Results" MODIFIED="1506325018585" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter 8/8.15.Printing Models" />
     <SUITE FILE_PATH="coverage/Python_Crash_Course$privileges.coverage" NAME="privileges Coverage Results" MODIFIED="1506356209482" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter 9/9.8.Privileges" />
     <SUITE FILE_PATH="coverage/Python_Crash_Course$stage_of_life.coverage" NAME="stage_of_life Coverage Results" MODIFIED="1505934345799" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter 5/5.6.Stage of life" />
-    <SUITE FILE_PATH="coverage/Python_Crash_Course$Unittests_in_test_cities_py.coverage" NAME="Unittests in test_cities.py Coverage Results" MODIFIED="1506607408349" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter 11/11.2.Population" />
+    <SUITE FILE_PATH="coverage/Python_Crash_Course$Unittests_in_test_cities_py.coverage" NAME="Unittests in test_cities.py Coverage Results" MODIFIED="1506666137771" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter 11/11.2.Population" />
     <SUITE FILE_PATH="coverage/Python_Crash_Course$unchanged_magicians.coverage" NAME="unchanged_magicians Coverage Results" MODIFIED="1506271903333" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter 8/8.11.Unchanged Magicians" />
     <SUITE FILE_PATH="coverage/Python_Crash_Course$users.coverage" NAME="users Coverage Results" MODIFIED="1506338927513" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter 9/9.3.Users" />
     <SUITE FILE_PATH="coverage/Python_Crash_Course$cities.coverage" NAME="cities Coverage Results" MODIFIED="1506237554154" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter 8/8.5.Cities" />
@@ -114,100 +114,21 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.78612715">
-      <split-first>
-        <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-          <file leaf-file-name="favourite_numbers.py" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/Chapter 10/10.11.Favourite Number/favourite_numbers.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="483">
-                  <caret line="21" column="21" lean-forward="true" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="remember_me.py" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/Chapter 10/10.12.Favourite Number Remembered/remember_me.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="276">
-                  <caret line="12" column="4" lean-forward="false" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="verify_user.py" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/Chapter 10/10.13.Verify User/verify_user.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="230">
-                  <caret line="22" column="9" lean-forward="true" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
-                  <folding>
-                    <element signature="e#439#450#0" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="city_functions.py" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/Chapter 11/11.1.City Country/city_functions.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="345">
-                  <caret line="15" column="19" lean-forward="true" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="test_cities.py" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/Chapter 11/11.1.City Country/test_cities.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="253">
-                  <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-                  <folding>
-                    <element signature="e#379#394#0" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="test_cities.py" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/Chapter 11/11.2.Population/test_cities.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="368">
-                  <caret line="17" column="52" lean-forward="false" selection-start-line="17" selection-start-column="52" selection-end-line="17" selection-end-column="52" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="city_functions.py" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/Chapter 11/11.2.Population/city_functions.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="138">
-                  <caret line="6" column="56" lean-forward="false" selection-start-line="6" selection-start-column="56" selection-end-line="6" selection-end-column="56" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-first>
-      <split-second>
-        <leaf>
-          <file leaf-file-name="remember_me.py" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/Chapter 10/10.12.Favourite Number Remembered/remember_me.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="206">
-                  <caret line="12" column="4" lean-forward="false" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-second>
-    </splitter>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="test_employee.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Chapter 11/11.3.Employee/test_employee.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="552">
+              <caret line="25" column="37" lean-forward="true" selection-start-line="25" selection-start-column="37" selection-end-line="25" selection-end-column="37" />
+              <folding>
+                <marker date="1506669217296" expanded="true" signature="0:263" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+                <marker date="1506669217296" expanded="true" signature="359:706" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -230,7 +151,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Chapter 8/8.15.Printing Models/printing_functions.py" />
         <option value="$PROJECT_DIR$/Chapter 8/8.15.Printing Models/print_models.py" />
         <option value="$PROJECT_DIR$/Chapter 8/8.17.Styling Functions/functions_from_other_projects.py" />
         <option value="$PROJECT_DIR$/Chapter 8/8.16.Imports/print_models.py" />
@@ -281,6 +201,7 @@
         <option value="$PROJECT_DIR$/Chapter 11/11.1.City Country/test_cities.py" />
         <option value="$PROJECT_DIR$/Chapter 11/11.2.Population/city_functions.py" />
         <option value="$PROJECT_DIR$/Chapter 11/11.2.Population/test_cities.py" />
+        <option value="$PROJECT_DIR$/Chapter 11/11.3.Employee/employee.py" />
       </list>
     </option>
   </component>
@@ -311,6 +232,35 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="Python-Crash-Course">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="Python-Crash-Course">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="Chapter 9">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -347,7 +297,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="11.2.Population" />
+              <option name="myItemId" value="11.3.Employee" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -364,62 +314,29 @@
               <option name="myItemId" value="Chapter 11" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="11.1.City Country" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope">
-        <subPane subId="Project Files">
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="Python-Crash-Course">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="Python-Crash-Course">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="Chapter 9">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Chapter 11/11.1.City Country/test_cities.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Chapter 11/11.3.Employee" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Tomasz\Desktop\GitHub\Python-Crash-Course\Chapter 11" />
-      <recent name="C:\Users\Tomasz\Desktop\GitHub\Python-Crash-Course\Chapter 11\11.1.City Country" />
-      <recent name="C:\Users\Tomasz\Desktop\GitHub\Python-Crash-Course\Chapter 10" />
-      <recent name="C:\Users\Tomasz\Desktop\GitHub\Python-Crash-Course\Chapter 10\10.3.Guest" />
-      <recent name="C:\Users\Tomasz\Desktop\GitHub\Python-Crash-Course\Chapter 10\10.6.Addition" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Tomasz\Desktop\GitHub\Python-Crash-Course\Chapter 10" />
       <recent name="C:\Users\Tomasz\Desktop\GitHub\Python-Crash-Course" />
       <recent name="C:\Users\Tomasz\Desktop\GitHub\Python-Crash-Course\Chapter 8" />
       <recent name="C:\Users\Tomasz\Desktop\GitHub\Python-Crash-Course\Chapter 3" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Tomasz\Desktop\GitHub\Python-Crash-Course\Chapter 11\11.3.Employee" />
+      <recent name="C:\Users\Tomasz\Desktop\GitHub\Python-Crash-Course\Chapter 11" />
+      <recent name="C:\Users\Tomasz\Desktop\GitHub\Python-Crash-Course\Chapter 11\11.1.City Country" />
+      <recent name="C:\Users\Tomasz\Desktop\GitHub\Python-Crash-Course\Chapter 10" />
+      <recent name="C:\Users\Tomasz\Desktop\GitHub\Python-Crash-Course\Chapter 10\10.3.Guest" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -434,7 +351,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.test_cities">
+  <component name="RunManager" selected="Python tests.Unittests in test_cities.py">
     <configuration default="false" name="favourite_numbers" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -744,8 +661,8 @@
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.test_cities" />
-        <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests in test_cities.py" />
+        <item index="0" class="java.lang.String" itemvalue="Python tests.Unittests in test_cities.py" />
+        <item index="1" class="java.lang.String" itemvalue="Python.test_cities" />
         <item index="2" class="java.lang.String" itemvalue="Python.verify_user" />
         <item index="3" class="java.lang.String" itemvalue="Python.favourite_numbers (1)" />
         <item index="4" class="java.lang.String" itemvalue="Python.favourite_numbers" />
@@ -766,9 +683,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Doctests_in_learning_c - 2017.09.26 at 13h 19m 22s.xml">
-      <configuration name="Doctests in learning_c" configurationId="tests" />
-    </history-entry>
     <history-entry file="Doctests_in_learning_c - 2017.09.26 at 13h 19m 36s.xml">
       <configuration name="Doctests in learning_c" configurationId="tests" />
     </history-entry>
@@ -796,6 +710,9 @@
     <history-entry file="Unittests_in_test_cities_py - 2017.09.28 at 16h 03m 28s.xml">
       <configuration name="Unittests in test_cities.py" configurationId="tests" />
     </history-entry>
+    <history-entry file="Unittests_in_test_cities_py - 2017.09.29 at 08h 22m 18s.xml">
+      <configuration name="Unittests in test_cities.py" configurationId="tests" />
+    </history-entry>
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -808,9 +725,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1050" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16111708" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16541353" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299435" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299435" sideWeight="0.5021482" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -844,41 +760,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Chapter 9/9.14.Dice/dice.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter 9/9.15.Python Module of the Week/dice.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter 10/10.1.Learning Python/learning_python.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret line="1" column="46" lean-forward="false" selection-start-line="1" selection-start-column="46" selection-end-line="1" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter 10/10.1.Learning Python/learning_python.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="690">
-          <caret line="30" column="18" lean-forward="false" selection-start-line="30" selection-start-column="18" selection-end-line="30" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Chapter 10/10.2.Learning C/learning_c.py" />
     <entry file="file://$PROJECT_DIR$/Chapter 10/10.2.Learning C/learning_python.txt">
       <provider selected="true" editor-type-id="text-editor">
@@ -953,7 +834,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -961,7 +841,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -969,7 +848,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -977,7 +855,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -990,19 +867,11 @@
     <entry file="file://$PROJECT_DIR$/Chapter 10/10.9.Silent Cats and Dogs/catsss.txt" />
     <entry file="file://$PROJECT_DIR$/Chapter 10/10.9.Silent Cats and Dogs/d.txt" />
     <entry file="file://$PROJECT_DIR$/Chapter 10/10.9.Silent Cats and Dogs/s.txt" />
-    <entry file="file://$PROJECT_DIR$/Chapter 10/10.11.Favourite Number/Memory.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter 10/10.11.Favourite Number/Memory.txt" />
     <entry file="file://$PROJECT_DIR$/Chapter 10/10.11.Favourite Number/favorite_number.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1010,7 +879,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="38" column="22" lean-forward="false" selection-start-line="38" selection-start-column="19" selection-end-line="38" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1018,7 +886,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="623">
           <caret line="37" column="23" lean-forward="false" selection-start-line="37" selection-start-column="23" selection-end-line="37" selection-end-column="23" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1026,7 +893,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="207">
           <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1034,38 +900,21 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="253">
           <caret line="20" column="23" lean-forward="false" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter 10/10.13.Verify User/favorite_number.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter 10/10.13.Verify User/favorite_number.json" />
     <entry file="file://$PROJECT_DIR$/Chapter 10/10.12.Favourite Number Remembered/favorite_number.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Chapter 10/10.11.Favourite Number/favourite_numbers.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="483">
-          <caret line="21" column="21" lean-forward="true" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter 10/10.12.Favourite Number Remembered/remember_me.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="12" column="4" lean-forward="false" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
+          <caret line="21" column="21" lean-forward="false" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
           <folding />
         </state>
       </provider>
@@ -1074,14 +923,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Chapter 10/10.13.Verify User/verify_user.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="22" column="9" lean-forward="true" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
+        <state relative-caret-position="437">
+          <caret line="22" column="9" lean-forward="false" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
           <folding>
             <element signature="e#439#450#0" expanded="true" />
           </folding>
@@ -1091,25 +939,44 @@
     <entry file="file://$PROJECT_DIR$/Chapter 11/11.1.City Country/city_functions.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
-          <caret line="15" column="19" lean-forward="true" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
+          <caret line="15" column="19" lean-forward="false" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter 11/11.2.Population/.idea/misc.xml">
+    <entry file="file://$PROJECT_DIR$/Chapter 11/11.2.Population/.idea/misc.xml" />
+    <entry file="file://$PROJECT_DIR$/Chapter 11/11.1.City Country/test_cities.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding>
+            <element signature="e#379#394#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter 8/8.8.User Albums/user_albums.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter 11/11.1.City Country/test_cities.py">
+    <entry file="file://$PROJECT_DIR$/Chapter 5/5.10.Checking Usernames/checking_usernames.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter 11/11.3.Employee/city_functions.py" />
+    <entry file="file://$PROJECT_DIR$/Chapter 11/11.3.Employee/employee.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="253">
           <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
           <folding>
-            <element signature="e#379#394#0" expanded="true" />
+            <marker date="1506669048445" expanded="true" signature="584:872" ph="..." />
+            <marker date="1506669048445" expanded="true" signature="808:872" ph="..." />
           </folding>
         </state>
       </provider>
@@ -1124,9 +991,30 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Chapter 11/11.2.Population/test_cities.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="17" column="52" lean-forward="false" selection-start-line="17" selection-start-column="52" selection-end-line="17" selection-end-column="52" />
+        <state relative-caret-position="299">
+          <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding>
+            <element signature="e#233#248#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter 10/10.12.Favourite Number Remembered/remember_me.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="12" column="4" lean-forward="false" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter 11/11.3.Employee/test_employee.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="552">
+          <caret line="25" column="37" lean-forward="true" selection-start-line="25" selection-start-column="37" selection-end-line="25" selection-end-column="37" />
+          <folding>
+            <marker date="1506669217296" expanded="true" signature="0:263" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1506669217296" expanded="true" signature="359:706" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>

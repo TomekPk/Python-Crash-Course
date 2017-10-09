@@ -3,3 +3,5 @@
 learning from ebook
 https://www.nostarch.com/pythoncrashcourse
 book resources: https://ehmatthes.github.io/pcc/
+
+Each exercise done after read a part of chapter.
